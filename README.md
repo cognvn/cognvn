@@ -1,4 +1,5 @@
 ### Hi there 👋
+**Cogn >< Ngọc** - my name is too common so I reverse the word for availability
 
 <!--
 **cognvn/cognvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
